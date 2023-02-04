@@ -7,3 +7,4 @@ Git始める
 もう面倒
 git add
 git commit
+git rm
