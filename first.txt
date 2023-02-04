@@ -3,3 +3,7 @@ Git始める
 基本的なワークフロー
 
 まだまだ
+
+もう面倒
+git add
+git commit
